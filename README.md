@@ -1,5 +1,7 @@
 # Airbnb JavaScript Style Guide() {
 
+New Lines 
+Line
 *A reasonable approach to Python*
 Some message from branch1
 
