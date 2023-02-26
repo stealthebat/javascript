@@ -1,6 +1,6 @@
 # Airbnb JavaScript Style Guide() {
 
-*A deleted reasonable approach to Python*
+*A reasonable approach to Python*
 Some message from branch1
 
 New messages!!!
